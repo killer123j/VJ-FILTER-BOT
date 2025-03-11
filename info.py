@@ -15,9 +15,9 @@ API_ID = int(environ.get('API_ID', '25895175'))
 API_HASH = environ.get('API_HASH', '6e455b91ca68d245e378aeb903afd001')
 BOT_TOKEN = environ.get('BOT_TOKEN', "7949581943:AAFja50pFtcvxNkxG_JPYZREPhMuA5XCzvw")
 
-CHNL_LNK = environ.get('CHNL_LNK', "https://t.me/KILLERxVIP")
+CHNL_LNK = environ.get('CHNL_LNK', "https://t.me/+74CyH4jUvs85MzVl")
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://graph.org/file/ce1723991756e48c35aa1.jpg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/envs.sh/WTA.jpg')).split()
 
 
 # Admins & Users
