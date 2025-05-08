@@ -13,11 +13,11 @@ id_pattern = re.compile(r'^.\d+$')
 SESSION = environ.get('SESSION', 'TechVJBot')
 API_ID = int(environ.get('API_ID', '25895175'))
 API_HASH = environ.get('API_HASH', '6e455b91ca68d245e378aeb903afd001')
-BOT_TOKEN = environ.get('BOT_TOKEN', "")
+BOT_TOKEN = environ.get('BOT_TOKEN', "7859271842:AAGgSyWbJXPpbtvbmtcRn5chvMq1FGlcS4M")
 
 CHNL_LNK = environ.get('CHNL_LNK', "https://t.me/+BSkLj7TCrZ1kYjZl")
 # This Pictures Is For Start Message Picture, You Can Add Multiple By Giving One Space Between Each.
-PICS = (environ.get('PICS', 'https://graph.org/file/envs.sh/WTA.jpg')).split()
+PICS = (environ.get('PICS', 'https://iili.io/3eWtG44.jpg')).split()
 
 
 # Admins & Users
